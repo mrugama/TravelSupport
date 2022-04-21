@@ -5,7 +5,21 @@ Manual basico de como apoyar en la compra de boletos aereo o terrestre, taxis y 
 ### Cliente contacta para asistencia
 
 El primer contacto lo realiza el cliente y pide se le asista para compra de boleto aereo o terrestre en fecha especificada, por lo cual debemos obtener la siguiente informacion de la persona a la que estaremos asistiendo:
-   - Solicitar reenvio del mensaje de ICE
+   - Solicitar reenvio del mensaje de ICE como el siguiente:
+   > Este es un mensaje del Servicio de Inmigración y Esfuerzo de Aduanas (ICE, por sus siglas en inglés): Es muy importante que siga estas instrucciones cuidadosamente para evitar costos adicionales y demoras. ICE no es responsable por cargos adicionales incurridos por no seguir estas instrucciones escritas.
+ICE solicita que compre boletos de viaje para la persona que está patrocinando. Tienes la opción de comprar boletos de autobús o de avión.
+Los boletos de autobús SOLO se pueden comprar en Greyhound Lines. Los boletos se pueden comprar llamando al 1-800-531-5332 o en línea. NO se aceptarán billetes de otras compañías de autobuses.
+Los boletos de avión se pueden comprar en cualquier aerolínea de su elección. ICE sugiere que compre un seguro para asegurarse de no incurrir en cargos adicionales debido a circunstancias imprevistas.
+Los arreglos de boletos deben ser los siguientes:
+*El lugar de salida debe ser desde San Antonio, TX (Código de aeropuerto: SAT)
+*Todos los boletos DEBEN tener una fecha y hora de salida reservada.
+*La fecha de salida será el 21 de Abril de 2022
+*La hora de salida debe ser entre las 2 p.m. hasta las 10 p.m. CST
+Una vez que haya comprado las entradas, use su teléfono para tomar una foto o captura de pantalla de las entradas y enviarlas a este número de teléfono. Las fotos deben incluir el nombre del pasajero, la fecha de salida, la hora de salida y el número de confirmación o código de referencia.
+Solicitamos que los boletos se envíen HOY, NO HABRÁ EXCEPCIONES!
+Una vez que envíe los boletos, puede esperar una respuesta de nosotros confirmando el recibo dentro de las 48 horas.
+Un segundo mensaje de texto con el nombre completo y la fecha de nacimiento en formato MM/DD/AAAA de la persona que estás patrocinando será enviado momentáneamente.
+AVISO: ICE NUNCA SE CONTACTARÁ CON USTED PARA SOLICITAR DINERO. ¡NO SE CONVIERTA EN VÍCTIMA DE FRAUDE!
    - Foto de pasaporte
    - Lugar de origin, ejemplo: San Antotonio (SAT)
    - Lugar de destino, ejemplo: Newark (EWR)
