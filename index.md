@@ -26,6 +26,8 @@ AVISO: ICE NUNCA SE CONTACTARÁ CON USTED PARA SOLICITAR DINERO. ¡NO SE CONVIER
    - Fecha de viaje, ejemplo: 21 Abril de 2022
    - Horario preferible de viaje o rango de horarios, ejemplo: 2 p.m. hasta las 10 p.m. CST
    - Medio de transporte deseado: Aereo o Terrestre
+   - Correo electronico donde llegara confirmacion de vuelo
+   - Numero Telefonico
 
 ### Como realizar la compra?
 1. Contar con una tarjeta de credito de uso internacional, como:
